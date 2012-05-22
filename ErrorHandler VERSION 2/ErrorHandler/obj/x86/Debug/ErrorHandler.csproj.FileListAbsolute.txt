@@ -1,0 +1,19 @@
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\ErrorHandler.Form1.resources
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\ErrorHandler.Properties.Resources.resources
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\bin\Debug\ErrorHandler.exe
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\bin\Debug\ErrorHandler.pdb
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\ErrorHandler.exe
+C:\Users\Greg Marchese\Desktop\ErrorHandler\ErrorHandler\obj\x86\Debug\ErrorHandler.pdb
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ErrorHandler.exe
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ErrorHandler.pdb
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\bin\Debug\ErrorHandler.exe
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\bin\Debug\ErrorHandler.pdb
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ErrorHandler.errorinterface.resources
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ErrorHandler.Form1.resources
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\ErrorHandler.Properties.Resources.resources
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Marchese\Dropbox\Programming\ErrorHandler VERSION 2\ErrorHandler\obj\x86\Debug\GenerateResource.write.1.tlog

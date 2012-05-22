@@ -1,0 +1,10 @@
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\ROVduino_udpTOOL.Form1.resources
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\ROVduino_udpTOOL.Properties.Resources.resources
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\bin\Debug\ROVduino udpTOOL.exe.config
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\bin\Debug\ROVduino udpTOOL.exe
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\bin\Debug\ROVduino udpTOOL.pdb
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\ROVduino udpTOOL.exe
+C:\Users\Greg Marchese\Dropbox\Programming - ROVduino\ROVduino udpTOOL\ROVduino udpTOOL\obj\x86\Debug\ROVduino udpTOOL.pdb
