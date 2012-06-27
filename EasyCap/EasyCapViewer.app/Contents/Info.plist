@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>EasyCapViewer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.BenTrask.EasyCapViewer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>EasyCapViewer</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>0.5.3</string>
+	<key>ECVInfoByVideoCodec</key>
+	<dict>
+		<key>'jpeg'</key>
+		<dict>
+			<key>ECVCodecLabel</key>
+			<string>Motion JPEG</string>
+			<key>ECVConfigurableQuality</key>
+			<true/>
+		</dict>
+		<key>'mp4v'</key>
+		<dict>
+			<key>ECVCodecLabel</key>
+			<string>MPEG-4</string>
+			<key>ECVConfigurableQuality</key>
+			<true/>
+		</dict>
+		<key>'yuv2'</key>
+		<dict>
+			<key>ECVCodecLabel</key>
+			<string>Raw Y'CbCr</string>
+			<key>ECVConfigurableQuality</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>ECVVideoCodecs</key>
+	<array>
+		<string>'jpeg'</string>
+		<string>'mp4v'</string>
+		<string>'yuv2'</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5.8</string>
+	<key>NSMainNibFile</key>
+	<string>ECVMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
